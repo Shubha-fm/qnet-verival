@@ -2,6 +2,12 @@
 
 This directory supplements the QNet-VeriVal web prototype with the measurement-driven manuscript's reproducibility materials. The existing application remains a separate prototype. Its API results are not the archived experimental results.
 
+## Final manuscript
+
+Download [the final LaTeX ZIP](manuscript/VeriQKD_Net_Final_LaTeX.zip) or [the final PDF](manuscript/Final_Manuscript.pdf). The ZIP includes all LaTeX inputs, figures, compiled PDF, checksums, and verification notes. Select `main.tex` in Overleaf or compile it with pdfLaTeX at least twice. The optional `acm_main.tex` requires the official acmart class and was not compiled in the validation environment.
+
+The experiment archive below remains unchanged at commit `0dcc7877755e62a216fffb95e6bf7abedc151a2f`. It retains the earlier manuscript for provenance. The separate manuscript downloads above contain the final revision with the verified GitHub availability statement and reproduction instructions.
+
 ## Contents and evidence
 
 - `src/` and `tests/`: experimental models, checkers, processing, audits, and 20 tests.

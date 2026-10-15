@@ -1,0 +1,1 @@
+Select main.tex after extracting VeriQKD_Net_Final_LaTeX.zip. The ZIP contains the final sources, figures, PDF, checksums, and verification notes. The immutable experimental archive is restored separately using ../restore_package.py.

@@ -5,3 +5,9 @@ __pycache__/
 .DS_Store
 .idea/
 .vscode/
+
+# Restored research archive and generated Python/compiler files
+research/replication/
+research/**/__pycache__/
+research/src/graph_checker
+research/src/pool_graph_checker

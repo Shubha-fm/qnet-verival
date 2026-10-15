@@ -99,3 +99,5 @@ QNet-VeriVal is a verification and validation framework for critical distributed
 ## Measurement-driven research package
 
 The [research replication directory](research/README.md) contains the experimental code, original IrelandQCI measurements and attribution, and the complete manuscript evidence package. Follow its restoration and verification instructions to reproduce the archived results. These experiments are distinct from the web prototype described above.
+
+The [final manuscript PDF and LaTeX sources](research/README.md#final-manuscript) are now available separately from the pinned experiment archive.
