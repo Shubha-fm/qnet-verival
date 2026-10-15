@@ -2,15 +2,9 @@
 
 This directory supplements the QNet-VeriVal web prototype with the manuscript's research evidence. The existing web application's API output is not the archived experimental evidence.
 
-## Final manuscript
+## Code-and-data distribution
 
-- [Public manuscript PDF](manuscript/Final_Manuscript.pdf)
-- [Public LaTeX ZIP](manuscript/VeriQKD_Net_Final_LaTeX.zip)
-- [Anonymous review PDF](manuscript/Review_Manuscript.pdf)
-- [Anonymous review LaTeX ZIP](manuscript/VeriQKD_Net_ACM_Review_LaTeX.zip)
-- [Verification notes](manuscript/VERIFICATION.md)
-
-The manuscript has **39 pages, 30 cited references, 12 figures, and 23 tables**. Both source ZIPs compile through `main.tex` with the official ACM class, Libertine, Inconsolata, and newtx math fonts. Class source and license are included. The review source omits author-identifying repository links; the public version records the repository and pinned experiment revisions. The author block remains anonymous. Providing this review option does not claim that TOSEM currently mandates double-anonymous review.
+Manuscript LaTeX, PDF, and manuscript ZIP files are excluded. Older embedded paper copies have also been removed from the replication archive. Code, datasets, graphs, logs, and experiment results are retained. Analysis scripts can still generate LaTeX tables locally.
 
 ## Reproduce the complete experiment package
 
@@ -37,7 +31,7 @@ Expected: **28 tests pass**, 522 original synthetic records and 513 complete gra
 - **Matched testing:** 306,000 additional executions, 3,060 seed trials, and 3,181,452 actions. The selected seeds miss one of 61 failing cases at the largest budget.
 - **Executable implementation:** newly implemented SQLite lifecycle code, 2,040 controlled threaded batches, and 11,760 requests. Identifier reuse without excess capacity shows a limitation of the count abstraction.
 
-The [original archive](package/) remains pinned to commit `0dcc7877755e62a216fffb95e6bf7abedc151a2f`. Its earlier manuscript is retained for provenance. The [implementation and baseline extension](extension/) is pinned to commit `1549342624d2c9eaa1f0c5b4061d52aa2949ea57`. The final manuscript downloads above supersede the papers inside the historical archive.
+The [replication archive](package/) is distributed in three parts. Its SHA-256 is `655c7dc71b59410acff273e093ad39175062c4384c5990068c93f3d89cb015d0`. `restore_package.py` verifies the concatenated bytes before extraction. Manuscript files have been removed; retained experiment files are unchanged except the package README and integrity manifest. The [implementation and baseline extension](extension/) is unchanged.
 
 ## Interpretation and licenses
 
@@ -45,4 +39,5 @@ Hardware measurements are real. Workloads, supply conversion, timing budgets, an
 
 TLC is compared on aggregate I1-I3 safety only. No liveness equivalence or checker speed advantage is claimed. Controlled database schedules are not a distribution of production failures.
 
-The IrelandQCI researchers retain credit for the original hardware measurements under CC BY 4.0. Newly supplied experiment code is covered by its scoped MIT licenses. TLC and the ACM class retain their original licenses. The pre-existing web application is not relicensed by the research licenses. Generative-AI assistance in research scripting and manuscript development is disclosed in the paper and [provenance note](extension/AI_ASSISTANCE.md).
+The IrelandQCI researchers retain credit for the original hardware measurements under CC BY 4.0. Newly supplied experiment code is covered by its scoped MIT licenses. TLC retains its original license. The pre-existing web application is not relicensed by the research licenses. Generative-AI assistance in research scripting and manuscript development is disclosed in the [provenance note](extension/AI_ASSISTANCE.md).
+

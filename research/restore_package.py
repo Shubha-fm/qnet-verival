@@ -1,11 +1,11 @@
-"""Verify and restore the complete, unchanged experimental ZIP."""
+"""Verify and restore the code-and-data experimental ZIP (manuscript excluded)."""
 from pathlib import Path
 import hashlib
 import io
 import zipfile
 
 ROOT = Path(__file__).resolve().parent
-EXPECTED = "cc5e477a5b8a9c2a6b19f45860398fa45a4848c0d4530baa5b247f11591a2df8"
+EXPECTED = "655c7dc71b59410acff273e093ad39175062c4384c5990068c93f3d89cb015d0"
 
 def main():
     parts = [ROOT / "package" / f"replication.zip.part{i:02d}" for i in range(1, 4)]
@@ -28,3 +28,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
