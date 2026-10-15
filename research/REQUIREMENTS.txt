@@ -1,0 +1,5 @@
+# Core model, experiments, tests and replay use Python standard library only.
+# Optional analysis/validation dependencies:
+matplotlib
+numpy
+# System requirements: Python >=3.10; g++ with C++17; LaTeX for manuscript.

@@ -1,0 +1,281 @@
+{
+  "record_id": 21792844,
+  "doi": "10.5281/zenodo.21792844",
+  "version": null,
+  "acquired_utc": "2026-10-15T10:51:16.421179+00:00",
+  "files": [
+    {
+      "name": "roadm_3dbm_injected_signal_50km_added_fibre_full_sweep_stats.json",
+      "bytes": 4529,
+      "md5": "3faa9aaa7454e0c9c0c643f071d14b5d",
+      "sha256": "573b8151b28c7843a8df6420186d703b8aed8119063041c34ae9d0ab38d99f3e",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_3dbm_injected_signal_50km_added_fibre_full_sweep_stats.json/content"
+    },
+    {
+      "name": "characterisation_perturbation_continuous_noisy.csv",
+      "bytes": 17720,
+      "md5": "5c3edcff522f0df8c8d96f46e8c18780",
+      "sha256": "9b3f9efdae8ca22ed716b634fd8aae27b3fe3bca6a872045e2460f6f29ba3044",
+      "source_url": "https://zenodo.org/api/records/21792844/files/characterisation_perturbation_continuous_noisy.csv/content"
+    },
+    {
+      "name": "baseline_no_signal_50km_added_fibre_full_sweep.csv",
+      "bytes": 8696,
+      "md5": "e171850d7b319e3361a345ac6008e99a",
+      "sha256": "676f95ad7267acd2473b02ae3ce2342a6039bb1e89ef1c7c6ac3727caffd8b00",
+      "source_url": "https://zenodo.org/api/records/21792844/files/baseline_no_signal_50km_added_fibre_full_sweep.csv/content"
+    },
+    {
+      "name": "baseline_no_signal_50km_added_fibre_full_sweep_stats.json",
+      "bytes": 4520,
+      "md5": "0b78557d569f27ce623751036f8d5a48",
+      "sha256": "78f2bd7aeaed124f2c649f1d2d8a1d8913a4c9a8c426e39a62b2eb2c53cf13f6",
+      "source_url": "https://zenodo.org/api/records/21792844/files/baseline_no_signal_50km_added_fibre_full_sweep_stats.json/content"
+    },
+    {
+      "name": "baseline_no_signal_no_added_fibre_full_sweep_stats.json",
+      "bytes": 4544,
+      "md5": "6d59e17d78e4711bddaeb82fc2a2da12",
+      "sha256": "cb119fd8455f0728b090c2ae2f5a337c7b628cc3b3b8b94a7e81289bbd30a0c1",
+      "source_url": "https://zenodo.org/api/records/21792844/files/baseline_no_signal_no_added_fibre_full_sweep_stats.json/content"
+    },
+    {
+      "name": "roadm_3dbm_injected_signal_50km_added_fibre_full_sweep.csv",
+      "bytes": 7244,
+      "md5": "0deba82b85e2ca0ddaf4e528e720375a",
+      "sha256": "e838d978ed8db7c3f57f7f6b8204bded40f41f25d48ba970eac4b25ac776637a",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_3dbm_injected_signal_50km_added_fibre_full_sweep.csv/content"
+    },
+    {
+      "name": "roadm_12dbm_injected_signal_50km_added_fibre_full_sweep_stats.json",
+      "bytes": 4533,
+      "md5": "ca1d6700283c12130fee48836a3bfb02",
+      "sha256": "408632f9192a83340c2e8cbd26ee4cbe91fe4e64d8973ebd5397956d065e2160",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_12dbm_injected_signal_50km_added_fibre_full_sweep_stats.json/content"
+    },
+    {
+      "name": "roadm_7dbm_injected_signal_50km_added_fibre_full_sweep.csv",
+      "bytes": 7125,
+      "md5": "642000d2445e2c2cc0a9eee7211e6bb0",
+      "sha256": "36af3dad645afb58cd41c6559db82677e59c40765a2d4fa8020cf8a0d98e1559",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_7dbm_injected_signal_50km_added_fibre_full_sweep.csv/content"
+    },
+    {
+      "name": "roadm_7dbm_injected_signal_no_added_fibre_full_sweep_stats.json",
+      "bytes": 4550,
+      "md5": "d304bacb9f5581ef96fa1a23081c827b",
+      "sha256": "a62132b1ec08aa05a4c98e4b1cffccd135628dbb4450807cc6f650940a623e6a",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_7dbm_injected_signal_no_added_fibre_full_sweep_stats.json/content"
+    },
+    {
+      "name": "roadm_12dbm_injected_signal_no_added_fibre_full_sweep_stats.json",
+      "bytes": 4507,
+      "md5": "5439692a5896ec6bf39ea629d2389fca",
+      "sha256": "768ff3597603e833d1f00f1ec38c07c7bbb4e21d75b168a3fb93ea53e9aeffc7",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_12dbm_injected_signal_no_added_fibre_full_sweep_stats.json/content"
+    },
+    {
+      "name": "roadm_3dbm_injected_signal_no_added_fibre_full_sweep_stats.json",
+      "bytes": 4521,
+      "md5": "25f19e1a935a3df54a658e79b767cc90",
+      "sha256": "600b48b57d125f113cabe3a5a3557f3a64c0e286be4e1a6d91c0e30e3df396b5",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_3dbm_injected_signal_no_added_fibre_full_sweep_stats.json/content"
+    },
+    {
+      "name": "roadm_12dbm_injected_signal_no_added_fibre_full_sweep.csv",
+      "bytes": 11968,
+      "md5": "9a7b916047e0d04caeae34567ef62a33",
+      "sha256": "d31130607c1edb140379c2babd4971ff1ee1e9f235bb9d0033a9e5471479c7f2",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_12dbm_injected_signal_no_added_fibre_full_sweep.csv/content"
+    },
+    {
+      "name": "csv_summary_stats.json",
+      "bytes": 50129,
+      "md5": "ef7316ea425bc079e7dee9d018a385ca",
+      "sha256": "e015692c489c168cda3b447b2f09a7f30f0dd3588a49546ec19be84ef71f2fd9",
+      "source_url": "https://zenodo.org/api/records/21792844/files/csv_summary_stats.json/content"
+    },
+    {
+      "name": "roadm_9dbm_injected_signal_50km_added_fibre_full_sweep_stats.json",
+      "bytes": 4526,
+      "md5": "20429437d24a0bd884effde02ecbb93a",
+      "sha256": "563d9d22211cc0a8b30dae895e86d8455d8d020eb2c8bc6dbe95a19ce469cb1f",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_9dbm_injected_signal_50km_added_fibre_full_sweep_stats.json/content"
+    },
+    {
+      "name": "roadm_3dbm_injected_signal_no_added_fibre_full_sweep.csv",
+      "bytes": 8053,
+      "md5": "e400af6ae4fe693e42a160f9429a8895",
+      "sha256": "0c145f7d70356a9449301f96fa28328b55b34ff6b27750d2d58f1bf19bbe19b8",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_3dbm_injected_signal_no_added_fibre_full_sweep.csv/content"
+    },
+    {
+      "name": "roadm_9dbm_injected_signal_no_added_fibre_full_sweep.csv",
+      "bytes": 6458,
+      "md5": "847d94e867b7e6ec96105a52c3025d88",
+      "sha256": "47de1d6d5605e6381787192d863c3c3cb65d1a65d34b484a9a45318498f5c177",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_9dbm_injected_signal_no_added_fibre_full_sweep.csv/content"
+    },
+    {
+      "name": "roadm_9dbm_injected_signal_no_added_fibre_full_sweep_stats.json",
+      "bytes": 4529,
+      "md5": "52f4b81389cfbeb852389de868be3f94",
+      "sha256": "90c1beac482e0c7eeccbc8ac28a443fb83d4595d0b69cbb376dbdbcae0b0162e",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_9dbm_injected_signal_no_added_fibre_full_sweep_stats.json/content"
+    },
+    {
+      "name": "roadm_7dbm_injected_signal_no_added_fibre_full_sweep.csv",
+      "bytes": 7210,
+      "md5": "6d12509c4306eda78248c21b73951810",
+      "sha256": "9ee5782d3c4ba41af5ee53c946a4e5c6805e1b49f52ee166a428606e83ee91bb",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_7dbm_injected_signal_no_added_fibre_full_sweep.csv/content"
+    },
+    {
+      "name": "roadm_7dbm_injected_signal_50km_added_fibre_full_sweep_stats.json",
+      "bytes": 4532,
+      "md5": "8084654ddf30d9786fa293616df983a0",
+      "sha256": "8a647b819b85444afe8d5ded8d3a77370a9e3cf6cb81683c9b07f1b046196d50",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_7dbm_injected_signal_50km_added_fibre_full_sweep_stats.json/content"
+    },
+    {
+      "name": "roadm_12dbm_injected_signal_50km_added_fibre_full_sweep.csv",
+      "bytes": 7537,
+      "md5": "45d12545ee834267b3e1b2b9cb5abfd1",
+      "sha256": "3ea17584bbb223764677cf5cf6517d576e2dee38c354db6a04a8aed0fc5a50ee",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_12dbm_injected_signal_50km_added_fibre_full_sweep.csv/content"
+    },
+    {
+      "name": "roadm_9dbm_injected_signal_50km_added_fibre_full_sweep.csv",
+      "bytes": 7288,
+      "md5": "cd100e0f30e7956755c20f7404742087",
+      "sha256": "17c52e93c71be0502f2c33e186500a0540cbb67a9d47a2f5302d535e0f8c168e",
+      "source_url": "https://zenodo.org/api/records/21792844/files/roadm_9dbm_injected_signal_50km_added_fibre_full_sweep.csv/content"
+    },
+    {
+      "name": "baseline_no_signal_no_added_fibre_full_sweep.csv",
+      "bytes": 10916,
+      "md5": "df5e9700d992a6807a181d560967198e",
+      "sha256": "fbac95647a80004f19944e2e7200ce1eef0e89b1c43aa4c6745dfa534530df41",
+      "source_url": "https://zenodo.org/api/records/21792844/files/baseline_no_signal_no_added_fibre_full_sweep.csv/content"
+    },
+    {
+      "name": "characterisation_perturbation_2s_settling.csv",
+      "bytes": 16188,
+      "md5": "b3978b44dd6b817a590e829730c92948",
+      "sha256": "e8868426048e760b6070d75f8c10c045dbd4857929e5232fc005c41a8d5f9577",
+      "source_url": "https://zenodo.org/api/records/21792844/files/characterisation_perturbation_2s_settling.csv/content"
+    },
+    {
+      "name": "characterisation_perturbation_random.csv",
+      "bytes": 14604,
+      "md5": "493b2543350d80cb80525d4d7c92fac2",
+      "sha256": "f33f3b2ece3882dea5bdae3f7d55ae520d0bd7220a4f41365a0761c17664ba3c",
+      "source_url": "https://zenodo.org/api/records/21792844/files/characterisation_perturbation_random.csv/content"
+    },
+    {
+      "name": "characterisation_clavisxgr_full_sweep.csv",
+      "bytes": 835047,
+      "md5": "16339e224c0394276288763b43d76b4a",
+      "sha256": "dc276d625fd89b773a173544382e6677e8e55fc252055086f13ec43c2ac623b4",
+      "source_url": "https://zenodo.org/api/records/21792844/files/characterisation_clavisxgr_full_sweep.csv/content"
+    },
+    {
+      "name": "characterisation_perturbation_20s_settling.csv",
+      "bytes": 16511,
+      "md5": "1fa3d6c6af6ef3e83f33f94c2b2f25f2",
+      "sha256": "a54a001add8142119735ba90263a78e7173a401708d73bc045d2adfd5506ee05",
+      "source_url": "https://zenodo.org/api/records/21792844/files/characterisation_perturbation_20s_settling.csv/content"
+    },
+    {
+      "name": "characterisation_clavis3_full_sweep.csv",
+      "bytes": 25679,
+      "md5": "b041fcf8f81642bb3e339e6538e2ff49",
+      "sha256": "91890263b8e9e0dcfa6c978e497fe56af375bb554b8b9ebd9901a8d52b835a81",
+      "source_url": "https://zenodo.org/api/records/21792844/files/characterisation_clavis3_full_sweep.csv/content"
+    },
+    {
+      "name": "characterisation_perturbation_baseline.csv",
+      "bytes": 15434,
+      "md5": "969f308788e6181380523f2931d952cd",
+      "sha256": "eb07ab911eadf3c9a7acf057aaeb3d94fbbc81b3db65dadeb334721d3a2e11cd",
+      "source_url": "https://zenodo.org/api/records/21792844/files/characterisation_perturbation_baseline.csv/content"
+    },
+    {
+      "name": "characterisation_toshiba_production_full_sweep.csv",
+      "bytes": 756271,
+      "md5": "3aa848b20a55d20cdef5dd116831f167",
+      "sha256": "bd51afc6b6741cb2caa8cd0fa11fc8e3d507221e29791dcd825e52b71ac5d59f",
+      "source_url": "https://zenodo.org/api/records/21792844/files/characterisation_toshiba_production_full_sweep.csv/content"
+    },
+    {
+      "name": "characterisation_perturbation_continuous.csv",
+      "bytes": 15833,
+      "md5": "8eaf663a1461973d645d895ca9cfc46c",
+      "sha256": "9041222a4c525918f9bc18f1b6b3ee4e72ebe0ad1b3eec039c388d77dee34fe7",
+      "source_url": "https://zenodo.org/api/records/21792844/files/characterisation_perturbation_continuous.csv/content"
+    },
+    {
+      "name": "characterisation_perturbation_5s_settling.csv",
+      "bytes": 16174,
+      "md5": "8532e74a9a17fe6181e4b9ce12c9913d",
+      "sha256": "62b5a4cd6b1720a7f84d04d0f2ac353e715b51164fd58093ec123158d33508d9",
+      "source_url": "https://zenodo.org/api/records/21792844/files/characterisation_perturbation_5s_settling.csv/content"
+    },
+    {
+      "name": "LICENSE.txt",
+      "bytes": 1006,
+      "md5": "decc05007f10410699eb246779c97924",
+      "sha256": "274d20d96d852140bb18b0495733bfc44a6bd39fb98c5ccce4ebb3ab13b87b70",
+      "source_url": "https://zenodo.org/api/records/21792844/files/LICENSE.txt/content"
+    },
+    {
+      "name": "README.md",
+      "bytes": 5108,
+      "md5": "49aa4a0178ba907aaa8d9ca55c7a2601",
+      "sha256": "c9c7033830de33eb39e4c031baa64867b3df67f0a3422d86a7bc65609924f2fb",
+      "source_url": "https://zenodo.org/api/records/21792844/files/README.md/content"
+    },
+    {
+      "name": "characterisation_summary_stats.json",
+      "bytes": 4762,
+      "md5": "323129fc985726a6fff1e94125701d93",
+      "sha256": "acd112c60047428c296d9fa667b2c942bc4968679d6fe9fe1b70c4808310b2ec",
+      "source_url": "https://zenodo.org/api/records/21792844/files/characterisation_summary_stats.json/content"
+    },
+    {
+      "name": "characterisation_toshiba_production_25samples.csv",
+      "bytes": 262019,
+      "md5": "b635dde5f9f5fd6f8fd1ab99b34de77b",
+      "sha256": "2f739c92885ffaf5cc26774b1176d628373328b29a7c8dfb8ede076dafdde1b2",
+      "source_url": "https://zenodo.org/api/records/21792844/files/characterisation_toshiba_production_25samples.csv/content"
+    },
+    {
+      "name": "data_dictionary.md",
+      "bytes": 2562,
+      "md5": "6d71be503e9bf218114bc6bfb02ca62c",
+      "sha256": "e830f09a0b8ef6014997af45ee4148f196d8a5d7a9343ccb724dfe2c580a10c0",
+      "source_url": "https://zenodo.org/api/records/21792844/files/data_dictionary.md/content"
+    },
+    {
+      "name": "methodology.md",
+      "bytes": 3089,
+      "md5": "7c21edf91f88f66d25148cca1c753dc4",
+      "sha256": "006f9f19bc5eb476540f7c17153765a56596f72757644fbda1b1795319ec4de8",
+      "source_url": "https://zenodo.org/api/records/21792844/files/methodology.md/content"
+    },
+    {
+      "name": "characterisation_perturbation_1s_settling.csv",
+      "bytes": 16220,
+      "md5": "903d21dd02a28c15d306bbc0805c5393",
+      "sha256": "4075159f23fcfdb24de4d1a0c659ac13208462d58221cf8a086cdf921e10ef89",
+      "source_url": "https://zenodo.org/api/records/21792844/files/characterisation_perturbation_1s_settling.csv/content"
+    },
+    {
+      "name": "characterisation_toshiba_research_3runs.csv",
+      "bytes": 28195,
+      "md5": "99da664b230526156402a141c916e9ed",
+      "sha256": "0dc3ff0e16f3b3ff943c611caaa19a2dc36943d4f295d591a397fe97c92c3efe",
+      "source_url": "https://zenodo.org/api/records/21792844/files/characterisation_toshiba_research_3runs.csv/content"
+    }
+  ]
+}

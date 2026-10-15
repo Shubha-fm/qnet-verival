@@ -95,3 +95,7 @@ qnet-verival/
 ## Suggested citation text
 
 QNet-VeriVal is a verification and validation framework for critical distributed quantum communication protocols. It integrates formal model construction, temporal property verification, fault injection, mutation analysis, and counterexample-based diagnosis within a unified software workflow.
+
+## Measurement-driven research package
+
+The [research replication directory](research/README.md) contains the experimental code, original IrelandQCI measurements and attribution, and the complete manuscript evidence package. Follow its restoration and verification instructions to reproduce the archived results. These experiments are distinct from the web prototype described above.
