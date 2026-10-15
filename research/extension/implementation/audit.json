@@ -1,0 +1,9 @@
+{
+  "tlc_logs_verified": 306,
+  "sql_batches_verified": 2040,
+  "request_executions": 11760,
+  "witness_replays_reexecuted": 80,
+  "projection_steps": 430,
+  "random_seed_trials_checked": 3060,
+  "unit_tests_expected": 28
+}

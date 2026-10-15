@@ -1,0 +1,25 @@
+{
+  "seed_trials": 3060,
+  "executions": 306000,
+  "actions": 3181452,
+  "reference_failing_cases": 61,
+  "false_positive_trials": 0,
+  "seconds": 21.199421842999982,
+  "budgets": {
+    "1": {
+      "failing_case_trials": 610,
+      "hits": 180,
+      "cases_hit_in_at_least_one_seed": 54
+    },
+    "10": {
+      "failing_case_trials": 610,
+      "hits": 523,
+      "cases_hit_in_at_least_one_seed": 59
+    },
+    "100": {
+      "failing_case_trials": 610,
+      "hits": 579,
+      "cases_hit_in_at_least_one_seed": 60
+    }
+  }
+}

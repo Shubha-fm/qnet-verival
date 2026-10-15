@@ -1,0 +1,55 @@
+{
+  "profiles": 17,
+  "batches": 2040,
+  "request_executions": 11760,
+  "repetitions_per_cell": 20,
+  "witness_replays": 80,
+  "witness_steps": 430,
+  "projection_mismatches": 0,
+  "seconds": 55.04475540700014,
+  "python_sqlite_version": "3.53.1",
+  "modes": {
+    "atomic": {
+      "prepare_barrier": {
+        "batches": 340,
+        "duplicate_key": 0,
+        "over_capacity": 0,
+        "expired_delivery": 0
+      },
+      "expiry_boundary": {
+        "batches": 340,
+        "duplicate_key": 0,
+        "over_capacity": 0,
+        "expired_delivery": 0
+      }
+    },
+    "split": {
+      "prepare_barrier": {
+        "batches": 340,
+        "duplicate_key": 280,
+        "over_capacity": 220,
+        "expired_delivery": 0
+      },
+      "expiry_boundary": {
+        "batches": 340,
+        "duplicate_key": 280,
+        "over_capacity": 220,
+        "expired_delivery": 280
+      }
+    },
+    "reserved": {
+      "prepare_barrier": {
+        "batches": 340,
+        "duplicate_key": 0,
+        "over_capacity": 0,
+        "expired_delivery": 0
+      },
+      "expiry_boundary": {
+        "batches": 340,
+        "duplicate_key": 0,
+        "over_capacity": 0,
+        "expired_delivery": 0
+      }
+    }
+  }
+}

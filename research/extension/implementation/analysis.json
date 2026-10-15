@@ -1,0 +1,13 @@
+{
+  "tlc_cases": 306,
+  "tlc_agreements": 306,
+  "state_count_agreements": 245,
+  "threaded_batches": 2040,
+  "request_executions": 11760,
+  "duplicate_without_capacity_excess": {
+    "prepare_barrier": 60,
+    "expiry_boundary": 60
+  },
+  "random_executions": 306000,
+  "random_false_positives": 0
+}

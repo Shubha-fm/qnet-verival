@@ -1,0 +1,10 @@
+{
+  "cases": 306,
+  "agree": 306,
+  "pass": 245,
+  "fail": 61,
+  "unknown": 0,
+  "jar_sha256": "936a262061c914694dfd669a543be24573c45d5aa0ff20a8b96b23d01e050e88",
+  "safe_complete_state_counts_agree": 245,
+  "scope": "Aggregate I1-I3 safety only; no liveness equivalence claim; two concurrent single-worker Java runs."
+}
