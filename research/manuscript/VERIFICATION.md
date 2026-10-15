@@ -1,12 +1,11 @@
-# Final verification, 15 October 2026
+# Verification of strengthened manuscript and artifact
 
-- Remote GitHub commit 0dcc7877755e62a216fffb95e6bf7abedc151a2f: all 69 text files matched the prepared upload exactly; three archive parts reconstructed the delivered ZIP byte for byte.
-- All 39 deposited source files passed their pinned MD5 checksums; all 23 source CSV summary counts matched.
-- All 582,084 primary capacity mappings were recomputed; all 306 resource graphs and 80 safety witnesses passed integrity and replay checks.
-- All 522 synthetic outcome records and 513 complete graphs passed structural validation. Full replay checked 451 exhaustive witnesses and 120,000 sampled traces (970,037 actions), with zero false witnesses and zero random cutoffs.
-- All 20 unit tests passed from the reconstructed archive.
-- All 17 bibliography entries are cited; all 32 figure/table/model labels are referenced. All LaTeX inputs and figure assets are included.
-- Final main.tex compiled in three pdfLaTeX passes, without undefined references or overfull boxes. The final PDF is 34 pages.
-- The supplied PDF uses the portable article entry point. The optional acm_main.tex entry point requires an official acmart installation and was not compiled here.
+- 39-page ACM review manuscript, compiled with the official acmart class and its Libertine, Inconsolata, and newtx math fonts. Public-link variant also compiled.
+- 30 cited references; 35 referenced figure/table/model labels; 12 figures and 23 tables. All figures have accessibility descriptions.
+- 306/306 separately encoded TLC aggregate-safety verdicts agree. All 245 complete passing state counts agree. Liveness is deliberately outside the TLC comparison.
+- New matched testing: 306,000 executions, 3,181,452 actions, 3,060 seed trials; no false positives.
+- SQLite: 2,040 batches and 11,760 requests. All 80 witness replays agree across 430 projected snapshots. Key-identity reuse is separately observed and is not guaranteed by the count projection.
+- All 28 unit tests pass. All 39 original deposited file checksums, 582,084 capacity mappings, 306 resource graphs, and stored resource witnesses were previously audited and retained unchanged.
+- Original synthetic evidence remains 522 cases, 513 complete graphs, 451 exhaustive witnesses, and 120,000 earlier sampled traces. Original archive is preserved; this revision does not relabel those traces as new runs.
 
-Checks establish reproducibility and consistency within the stated models. They do not establish implementation conformance or the independence of graph labels from the Python model.
+No production-controller assurance, full refinement proof, independent-team replication, or tool speed advantage is claimed. Venue-specific TOSEM guidelines were inaccessible beyond search results, so no journal-specific anonymity or page-limit compliance claim is made.
